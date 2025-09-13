@@ -1,0 +1,6 @@
+/tmp/gh-issue-solver-1757732889041/csharp/Platform.Data.Doublets.Sql/obj/Debug/net8.0/Platform.Data.Doublets.Sql.csproj.AssemblyReference.cache
+/tmp/gh-issue-solver-1757732889041/csharp/Platform.Data.Doublets.Sql/obj/Debug/net8.0/Platform.Data.Doublets.Sql.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/gh-issue-solver-1757732889041/csharp/Platform.Data.Doublets.Sql/obj/Debug/net8.0/Platform.Data.Doublets.Sql.AssemblyInfoInputs.cache
+/tmp/gh-issue-solver-1757732889041/csharp/Platform.Data.Doublets.Sql/obj/Debug/net8.0/Platform.Data.Doublets.Sql.AssemblyInfo.cs
+/tmp/gh-issue-solver-1757732889041/csharp/Platform.Data.Doublets.Sql/obj/Debug/net8.0/Platform.Data.Doublets.Sql.csproj.CoreCompileInputs.cache
+/tmp/gh-issue-solver-1757732889041/csharp/Platform.Data.Doublets.Sql/obj/Debug/net8.0/Platform.Data.Doublets.Sql.sourcelink.json
